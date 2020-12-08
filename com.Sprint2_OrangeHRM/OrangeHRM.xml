@@ -7,7 +7,7 @@
 	<test name="santosh" thread-count="5">
 		-
 		<classes>
-			<class name="com.Sprint2_santosh.Step_definition" />
+			<class name="com.OrangeHRM_test_runner.TestRunnerTestng" />
 		</classes>
 	</test>
 

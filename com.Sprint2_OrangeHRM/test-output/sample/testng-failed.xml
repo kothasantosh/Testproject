@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [sample]">
+  <test name="sample test(failed)">
+    <classes>
+      <class name="com.OrangeHRM_test_runner.TestRunnerTestng">
+        <methods>
+          <include name="setUpClass"/>
+          <include name="feature"/>
+          <include name="tearDownClass"/>
+        </methods>
+      </class> <!-- com.OrangeHRM_test_runner.TestRunnerTestng -->
+    </classes>
+  </test> <!-- sample test(failed) -->
+</suite> <!-- Failed suite [sample] -->
